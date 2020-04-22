@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+sitemap: https://laxman926.github.io/sitemap.xml
